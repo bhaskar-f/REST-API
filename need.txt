@@ -1,0 +1,12 @@
+REST API
+
+GET/users -> Get the users renders in html
+
+GET/api/users->Get the users
+GET/api/users/id -> will get the user with requested id
+
+POST/api/users ->Create a user
+
+PATCH/api/users/id ->Edit the user with the requested id
+
+DELETE/api/users/id ->Delete the user with the requested id
